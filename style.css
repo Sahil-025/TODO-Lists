@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color:black;
+    height: 10vh;
+}
+.text-center{
+    display: flex;
+    justify-content: center;
+
+    align-items: center;
+    margin: 20px;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+   height: 50vh;
+    justify-content: center;
+    align-items: center;
+}
+.form-group{
+    display: flex;
+    flex-direction: column;
+}
+
+   
